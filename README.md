@@ -19,7 +19,7 @@ It serves as the foundation for liquidity, governance, and future ecosystem appl
 
 ## Liquidity Pools
 - **JET / BNB:** `0x573a67c44dfd23c5abc035e86054a9a1dce19f73`  
-- **JET / JETMAX ecosystem pool:** `0x3b2a94b53cfc7afd97538673f6c38f7caf0075d7`  
+- **JET / Jet1 ecosystem pool:** `0x3b2a94b53cfc7afd97538673f6c38f7caf0075d7`  
 
 ---
 
